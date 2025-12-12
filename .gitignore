@@ -3,3 +3,5 @@
 venv/
 env/
 node_modules
+.web-ports/package-lock.json
+package.json
